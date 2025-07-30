@@ -34,9 +34,10 @@ After building, you can run an example soft-IOC (Input/Output Controller)
 which uses the pvAccess network protocol.
 
 ```bash
-export EPICS_BASE=where/you/downloaded/epics-base
-export EPICS_HOST_ARCH=$(${EPICS_BASE}/startup/EpicsHostArch)
-export PATH=${EPICS_BASE}/bin/${EPICS_HOST_ARCH}:${PATH}
-
-softIocPVA
+./bin/*/softIoc
 ```
+
+## Git Version attributes
+
+- Last commit date: $Format:%cD$
+- Last commit hasth: $Format:%H$
