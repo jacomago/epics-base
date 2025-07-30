@@ -5,7 +5,7 @@
 .gitmodules         export-ignore
 .readthedocs.yml    export-ignore
 .tools/             export-ignore
-README.md           export-subst
+README              export-subst
 
 #Which files need CRLF handling
 # default to automatic

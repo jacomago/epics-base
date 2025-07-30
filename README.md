@@ -40,4 +40,4 @@ which uses the pvAccess network protocol.
 ## Git Version attributes
 
 - Last commit date: $Format:%cD$
-- Last commit hasth: $Format:%H$
+- Last commit hash: $Format:%H$
